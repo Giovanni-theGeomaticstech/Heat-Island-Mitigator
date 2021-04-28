@@ -1,0 +1,2 @@
+# Heat-Island-Mitigator
+This project leveraged the use of Google Collab and ImageAI to create an Aerial Imagery Building Detection workflow. This workflow was used a somewhat supervised process to use the Pixel (x,y) coordinates of detected buildings bounds and transform these bounds to Latitude and Longitude. The transformed bounds were then used to clip segments of Thermal Landsat (7 and 8) satellite imagery. The pixel values would be altered with values of sample locations to mitigate the image collection.
