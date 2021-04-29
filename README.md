@@ -1,5 +1,5 @@
 # Heat-Island-Mitigator
-This project leveraged the use of Google Collab and ImageAI to create an Aerial Imagery Building Detection workflow. This workflow was used a somewhat supervised process to use the Pixel (x,y) coordinates of detected buildings bounds and transform these bounds to Latitude and Longitude. The transformed bounds were used to clip segments of Thermal Landsat (7 and 8) satellite imagery. The pixel values would be altered with values of sample locations to mitigate the image collection.
+This project leveraged Google Collab and ImageAI to create an Aerial Imagery Building Detection workflow. This workflow used a somewhat supervised process to use the Pixel (x,y) coordinates of detected buildings bounds and transform these bounds to Latitude and Longitude. The transformed bounds were used to clip segments of Thermal Landsat (7 and 8) satellite imagery. The pixel values would be altered with pixel values of sample locations to change the thermal pixel values within a satellite imagery.
 
 ## Main Tools
 * Google Collab
@@ -7,7 +7,7 @@ This project leveraged the use of Google Collab and ImageAI to create an Aerial 
 * Google Earth Engine Python and JavaScript APIs
 
 ### Links
-* [Link To Notebook for the Building Detection Workflow (Go this for Object Detection)](https://colab.research.google.com/drive/18UE6pebRQzvEpaYFL_kv2mRu_u1ZLlQb?usp=sharing)
+* [Link To Notebook for the Building Detection Workflow (Go here for Object Detection)](https://colab.research.google.com/drive/18UE6pebRQzvEpaYFL_kv2mRu_u1ZLlQb?usp=sharing)
 * [Link to Google Earth Engine Code Editor Repository](https://code.earthengine.google.com/?accept_repo=users/gioharvey14/Geog471_space)
 * [Clone the Google Earth Engine Repo](git clone https://earthengine.googlesource.com/users/gioharvey14/Geog471_space)
 
