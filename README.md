@@ -13,7 +13,7 @@ This project leveraged the use of Google Collab and ImageAI to create an Aerial 
 
 ### Image Results
 <p>
-  <img src="captures/Building_detect_phoenix_scale(15).png" alt="Login"></br>
+  <img src="captures/Building_detect_phoenix_scale(15).png" width='300' alt="Login"></br>
   <img src="captures/Pixel(x,y)_to_WGS84.PNG" alt="Login"></br>
   <img src="captures/Object_detection_workflow.PNG" alt="Successful Login"></br>
   <img src="captures/UHI_Mitigation_workflow.PNG" alt="Profile screen navigation menu"></br>
