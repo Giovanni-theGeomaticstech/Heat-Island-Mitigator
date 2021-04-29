@@ -7,7 +7,7 @@ This project leveraged the use of Google Collab and ImageAI to create an Aerial 
 * Google Earth Engine Python and JavaScript APIs
 
 ### Links
-* [Link To Notebook for the Building Detection Workflow](https://colab.research.google.com/drive/18UE6pebRQzvEpaYFL_kv2mRu_u1ZLlQb?usp=sharing)
+* [Link To Notebook for the Building Detection Workflow (Go this for Object Detection)](https://colab.research.google.com/drive/18UE6pebRQzvEpaYFL_kv2mRu_u1ZLlQb?usp=sharing)
 * [Link to Google Earth Engine Code Editor Repository](https://code.earthengine.google.com/?accept_repo=users/gioharvey14/Geog471_space)
 * [Clone the Google Earth Engine Repo](git clone https://earthengine.googlesource.com/users/gioharvey14/Geog471_space)
 
