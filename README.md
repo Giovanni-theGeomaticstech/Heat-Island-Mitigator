@@ -12,9 +12,13 @@ This project leveraged the use of Google Collab and ImageAI to create an Aerial 
 * [Clone the Google Earth Engine Repo](git clone https://earthengine.googlesource.com/users/gioharvey14/Geog471_space)
 
 ### Image Results
-<p>
-  <img src="captures/Building_detect_phoenix_scale(15).png" width='300' alt="Login"></br>
+<div>
+  <img src="captures/Building_detect_phoenix_scale(15).png" width='700' height="700" alt="Login"></br>
+   <p>Detected Buildings in Pixel (x,y) coordinates</p> 
   <img src="captures/Pixel(x,y)_to_WGS84.PNG" alt="Login"></br>
+    <p>Detected Buildings in WGS84 (Latitude, Longitude) coordinates</p>
   <img src="captures/Object_detection_workflow.PNG" alt="Successful Login"></br>
+    <p>Building Detection Workflow</p>
   <img src="captures/UHI_Mitigation_workflow.PNG" alt="Profile screen navigation menu"></br>
-</p>
+    <p>Thermal Imagery Mitigation Worflow</p>
+</div>
